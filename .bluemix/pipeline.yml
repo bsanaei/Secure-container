@@ -8,7 +8,7 @@ stages:
   - type: commit
   properties:
   - name: SLACK_WEBHOOK_PATH
-    value: https://hooks.slack.com/services/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
+    value: https://hooks.slack.com/services/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
     type: text
   jobs:
   - name: Container build
@@ -61,7 +61,7 @@ stages:
   - type: stage
   properties:
   - name: SLACK_WEBHOOK_PATH
-    value: https://hooks.slack.com/services/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
+    value: https://hooks.slack.com/services/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
     type: text
   jobs:
   - name: Compliance
@@ -81,7 +81,7 @@ stages:
     job: Container build
   properties:
   - name: SLACK_WEBHOOK_PATH
-    value: https://hooks.slack.com/services/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
+    value: https://hooks.slack.com/services/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
     type: text
   - name: ROUTE_HOSTNAME
     value: ${CF_APP}

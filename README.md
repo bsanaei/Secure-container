@@ -1,7 +1,7 @@
 Example pipeline for group container with vlnerability advisor test
 ====================================================================
 
-[![Deploy To Bluemix](https://bluemix.net/deploy/button.png)](https://hub.jazz.net/deploy/index.html?repository=https://github.com/bsanaei/group-container.git)
+[![Deploy To Bluemix](https://bluemix.net/deploy/button.png)](https://hub.jazz.net/deploy/index.html?repository=https://github.com/bsanaei/group-containers.git)
 
 
 docker-rabbitmq
